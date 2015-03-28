@@ -247,7 +247,7 @@ section {
 }
 
 .davide:hover {
-   background-image: url('../images/justin2.jpg');
+   background-image: url('../images/davide2.jpg');
 }
 
 .erika {
@@ -260,7 +260,7 @@ section {
 }
 
 .erika:hover {
-   background-image: url('../images/ann2.jpg');
+   background-image: url('../images/erika2.jpg');
 }
 
 .hover-effect i {
@@ -395,6 +395,10 @@ section {
 
 .media-photo {
 	max-width: 25%;
+}
+
+.explain-text {
+	font-size: 18px;
 }
 
 /* FUN FACTS
