@@ -22,12 +22,12 @@ var CountdownWidth = 200;
 var CountdownHeight = 30;
 
 var CountdownLabels = {
-	second 	: "SECONDS",
-	minute 	: "MINUTES",
-	hour	: "HOURS",
-	day 	: "DAYS",
-	month 	: "MONTHS",
-	year 	: "YEARS"	
+	second 	: "SECONDI",
+	minute 	: "MINUTI",
+	hour	: "ORE",
+	day 	: "GIORNI",
+	month 	: "MESI",
+	year 	: "ANNI"	
 };
 
 var CountdownInterval = 76;
